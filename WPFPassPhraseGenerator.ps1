@@ -160,7 +160,7 @@ function Get-Phraseology {
     For ($i=1; $i -le $iterations; $i++) {
     $last = $namelist | get-random -count $words
     $last = [system.String]::Join(" ", $last)
-    Write-Host last = $last
+    $last
     $text_box.Text += "Iteration: "+$i
     $text_box.Text += " | Count: "+$words
     $text_box.Text += "`n"
@@ -177,9 +177,7 @@ function Get-Phraseology {
 $btn_gen.Add_Click({
     $n = $tex_bx.Text
     $w = $text_bx.Text 
-    Write-Host N = $n
-    Write-Host W = $w
-        Get-Phraseology -words $w -iterations $n
+    Get-Phraseology -words $w -iterations $n
 })
 
 
