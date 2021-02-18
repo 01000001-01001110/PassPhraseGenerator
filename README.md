@@ -27,7 +27,7 @@ Quickly Generate Passphrases
 
 
 
-WordList I am using. 4338 words, no duplicates. 
+WordList I am using. 4343 words, no duplicates. 
 
 aback
 abaft
