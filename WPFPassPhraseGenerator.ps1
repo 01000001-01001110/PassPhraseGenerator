@@ -133,7 +133,7 @@ function Show-Console
     }
 }
 
-#Show-Console -Hide
+Show-Console -Hide
 
 
 #-------------------------------------------------------------#
