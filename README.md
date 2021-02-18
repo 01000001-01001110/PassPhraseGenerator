@@ -8,7 +8,7 @@ Quickly Generate Passphrases
 
 
 
-                  ![image](https://user-images.githubusercontent.com/48245017/108388606-cc581300-71dc-11eb-9da1-694f28d9c000.png)
+![image](https://user-images.githubusercontent.com/48245017/108388606-cc581300-71dc-11eb-9da1-694f28d9c000.png)
 
 
 
